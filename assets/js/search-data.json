@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Mineração de Dados - Visão Geral dos Projetos de Pesquisa na UFRN",
-            "content": "Tamanho das bases: . Tipos das colunas: . Dados faltando por tabela: . . . . . . . . . . . . . . . . . fig = px.scatter(principais_unidades, x=&quot;unidade&quot;, y=&quot;codigo_projeto&quot;, color=&quot;unidade&quot;, size=&#39;codigo_projeto&#39;) fig.show() . . . . . #fig = px.scatter_3d(principais_unidades, x=&#39;year&#39;, y=&#39;continent&#39;, z=&#39;pop&#39;, size=&#39;gdpPercap&#39;, color=&#39;lifeExp&#39;, # hover_data=[&#39;country&#39;]) #fig.update_layout(scene_zaxis_type=&quot;log&quot;) #fig.show() .",
+            "content": "Tamanho das bases: . Tabela de Projetos: (21369, 21) Tabela de Bolsistas (26727, 20) . . . . . . . . . . . . .",
             "url": "https://isisgo.github.io/mineracao-de-dados/2021/03/05/mineracao.html",
             "relUrl": "/2021/03/05/mineracao.html",
             "date": " • Mar 5, 2021"
